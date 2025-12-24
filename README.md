@@ -1,1 +1,1 @@
-# DataAnalystPortfolioProject_PBI_SQL_Python_MarketingAnalytics
+# Marketing Analysis Using PBI_SQL_Python
